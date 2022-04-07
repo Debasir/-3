@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\Max3\Max3\obj\Debug\netcoreapp3.1\Max3.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Max3\Max3\obj\Debug\netcoreapp3.1\Max3.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\Max3\Max3\obj\Debug\netcoreapp3.1\Max3.AssemblyInfo.cs
+C:\Users\Danil\source\repos\Max3\Max3\obj\Debug\netcoreapp3.1\Max3.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Max3\Max3\bin\Debug\netcoreapp3.1\Max3.exe
+C:\Users\Danil\source\repos\Max3\Max3\bin\Debug\netcoreapp3.1\Max3.deps.json
+C:\Users\Danil\source\repos\Max3\Max3\bin\Debug\netcoreapp3.1\Max3.runtimeconfig.json
+C:\Users\Danil\source\repos\Max3\Max3\bin\Debug\netcoreapp3.1\Max3.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\Max3\Max3\bin\Debug\netcoreapp3.1\Max3.dll
+C:\Users\Danil\source\repos\Max3\Max3\bin\Debug\netcoreapp3.1\Max3.pdb
+C:\Users\Danil\source\repos\Max3\Max3\obj\Debug\netcoreapp3.1\Max3.dll
+C:\Users\Danil\source\repos\Max3\Max3\obj\Debug\netcoreapp3.1\Max3.pdb
+C:\Users\Danil\source\repos\Max3\Max3\obj\Debug\netcoreapp3.1\Max3.genruntimeconfig.cache
